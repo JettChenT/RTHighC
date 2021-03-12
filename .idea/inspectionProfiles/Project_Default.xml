@@ -1,0 +1,34 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="11">
+            <item index="0" class="java.lang.String" itemvalue="fire" />
+            <item index="1" class="java.lang.String" itemvalue="flask-restplus" />
+            <item index="2" class="java.lang.String" itemvalue="flask-restx" />
+            <item index="3" class="java.lang.String" itemvalue="certifi" />
+            <item index="4" class="java.lang.String" itemvalue="fastapi" />
+            <item index="5" class="java.lang.String" itemvalue="idna" />
+            <item index="6" class="java.lang.String" itemvalue="pydantic" />
+            <item index="7" class="java.lang.String" itemvalue="pillow" />
+            <item index="8" class="java.lang.String" itemvalue="rich" />
+            <item index="9" class="java.lang.String" itemvalue="requests" />
+            <item index="10" class="java.lang.String" itemvalue="shodan" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="server.server.users" />
+          <option value="client.gui.executer" />
+          <option value="PyQt5.QtWidgets.returnPressed.connect" />
+          <option value="client.gui.passwordStrength" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
